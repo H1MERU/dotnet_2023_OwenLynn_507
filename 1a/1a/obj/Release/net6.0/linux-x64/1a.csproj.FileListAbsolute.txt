@@ -1,0 +1,14 @@
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\linux-x64\1a
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\linux-x64\1a.deps.json
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\linux-x64\1a.runtimeconfig.json
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\linux-x64\1a.dll
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\linux-x64\1a.pdb
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\1a.AssemblyInfoInputs.cache
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\1a.AssemblyInfo.cs
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\1a.csproj.CoreCompileInputs.cache
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\1a.dll
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\refint\1a.dll
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\1a.pdb
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\1a.genruntimeconfig.cache
+C:\Users\bba\source\repos\1a\1a\obj\Release\net6.0\linux-x64\ref\1a.dll

@@ -1,0 +1,5 @@
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\publish\linux-x64\1a
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\publish\linux-x64\1a.dll
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\publish\linux-x64\1a.deps.json
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\publish\linux-x64\1a.runtimeconfig.json
+C:\Users\bba\source\repos\1a\1a\bin\Release\net6.0\publish\linux-x64\1a.pdb
