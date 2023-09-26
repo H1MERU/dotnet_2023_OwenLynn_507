@@ -1,0 +1,14 @@
+C:\Users\bba\source\repos\BankProj\BankProj\bin\Debug\net6.0\BankProj.exe
+C:\Users\bba\source\repos\BankProj\BankProj\bin\Debug\net6.0\BankProj.deps.json
+C:\Users\bba\source\repos\BankProj\BankProj\bin\Debug\net6.0\BankProj.runtimeconfig.json
+C:\Users\bba\source\repos\BankProj\BankProj\bin\Debug\net6.0\BankProj.dll
+C:\Users\bba\source\repos\BankProj\BankProj\bin\Debug\net6.0\BankProj.pdb
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\BankProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\BankProj.AssemblyInfoInputs.cache
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\BankProj.AssemblyInfo.cs
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\BankProj.csproj.CoreCompileInputs.cache
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\BankProj.dll
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\refint\BankProj.dll
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\BankProj.pdb
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\BankProj.genruntimeconfig.cache
+C:\Users\bba\source\repos\BankProj\BankProj\obj\Debug\net6.0\ref\BankProj.dll
