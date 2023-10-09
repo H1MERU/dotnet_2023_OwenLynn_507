@@ -1,0 +1,10 @@
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\bin\Debug\dotnet_03.exe.config
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\bin\Debug\dotnet_03.exe
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\bin\Debug\dotnet_03.pdb
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.AssemblyReference.cache
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.Form1.resources
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.Properties.Resources.resources
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.GenerateResource.cache
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.CoreCompileInputs.cache
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.exe
+C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.pdb
