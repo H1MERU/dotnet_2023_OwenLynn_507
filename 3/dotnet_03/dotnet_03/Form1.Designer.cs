@@ -42,9 +42,9 @@
             // 
             // selectFileButton
             // 
-            this.selectFileButton.Location = new System.Drawing.Point(615, 50);
+            this.selectFileButton.Location = new System.Drawing.Point(587, 50);
             this.selectFileButton.Name = "selectFileButton";
-            this.selectFileButton.Size = new System.Drawing.Size(75, 23);
+            this.selectFileButton.Size = new System.Drawing.Size(103, 23);
             this.selectFileButton.TabIndex = 0;
             this.selectFileButton.Text = "选择文件";
             this.selectFileButton.UseVisualStyleBackColor = true;
@@ -80,9 +80,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(615, 116);
+            this.button1.Location = new System.Drawing.Point(587, 116);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(103, 23);
             this.button1.TabIndex = 5;
             this.button1.Text = "格式化";
             this.button1.UseVisualStyleBackColor = true;
@@ -91,11 +91,11 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(101, 199);
+            this.dataGridView1.Location = new System.Drawing.Point(101, 159);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 27;
-            this.dataGridView1.Size = new System.Drawing.Size(240, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(455, 263);
             this.dataGridView1.TabIndex = 6;
             // 
             // form1BindingSource

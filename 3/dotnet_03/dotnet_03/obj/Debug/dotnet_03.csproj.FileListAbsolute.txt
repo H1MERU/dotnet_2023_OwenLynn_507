@@ -8,3 +8,13 @@ C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.Generat
 C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.CoreCompileInputs.cache
 C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.exe
 C:\Users\bba\source\repos\dotnet_03\dotnet_03\obj\Debug\dotnet_03.pdb
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\bin\Debug\dotnet_03.exe.config
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\bin\Debug\dotnet_03.exe
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\bin\Debug\dotnet_03.pdb
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.AssemblyReference.cache
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\obj\Debug\dotnet_03.Form1.resources
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\obj\Debug\dotnet_03.Properties.Resources.resources
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.GenerateResource.cache
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\obj\Debug\dotnet_03.csproj.CoreCompileInputs.cache
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\obj\Debug\dotnet_03.exe
+D:\Storage\repos\dotnet_repo\3\dotnet_03\dotnet_03\obj\Debug\dotnet_03.pdb
