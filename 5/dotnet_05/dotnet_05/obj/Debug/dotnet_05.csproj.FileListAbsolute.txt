@@ -1,0 +1,16 @@
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\dotnet_05.exe.config
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\dotnet_05.exe
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\dotnet_05.pdb
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.csproj.AssemblyReference.cache
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.Form1.resources
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.Properties.Resources.resources
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.csproj.GenerateResource.cache
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.csproj.CoreCompileInputs.cache
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.exe
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.pdb
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bba\source\repos\dotnet_05\dotnet_05\obj\Debug\dotnet_05.csproj.CopyComplete
