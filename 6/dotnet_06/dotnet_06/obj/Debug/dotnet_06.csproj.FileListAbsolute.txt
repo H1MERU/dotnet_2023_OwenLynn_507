@@ -1,0 +1,16 @@
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\bin\Debug\dotnet_06.exe.config
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\bin\Debug\dotnet_06.exe
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\bin\Debug\dotnet_06.pdb
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.csproj.AssemblyReference.cache
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.Form1.resources
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.Properties.Resources.resources
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.csproj.GenerateResource.cache
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.csproj.CoreCompileInputs.cache
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.exe
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.pdb
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\bin\Debug\Dapper.dll
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\bin\Debug\System.Data.SQLite.dll
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\bin\Debug\Dapper.xml
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\bin\Debug\System.Data.SQLite.xml
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.csproj.CopyComplete
+C:\Users\bba\source\repos\dotnet_06\dotnet_06\obj\Debug\dotnet_06.Form2.resources
